@@ -1,0 +1,46 @@
+.pincelImage{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid black;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 13%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.881); /* Color de fondo del texto */
+
+    border-radius: 10px;
+}
+
+.textOntop{
+    color: #c0ae99;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+
+.textEmpleados{
+    font-size: 1.3rem;
+    color: #c0ae99;
+    font-weight: bold;
+
+}

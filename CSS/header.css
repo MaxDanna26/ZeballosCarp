@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo{
+    padding: 0.5rem 2rem; 
+}
+
+.logo:hover{
+    scale: 1.05;
+    transition: 0.5s;
+}

@@ -1,0 +1,128 @@
+.LogoCarp{
+    width: 100px;
+    border-radius: 3rem;
+    
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+}
+.navbar-collapse {
+    justify-content: center;
+}
+
+.aboutUs {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.title{
+    color: #b1a897;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+}
+
+.button-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.btn-custom {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.btn-customs{
+    background-color: #b1a897;
+}
+
+.aboutUs{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.image-container {
+    position: relative;
+}
+
+.text-overlay {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7); 
+
+    text-align: center; 
+    font-family: 'Arial', sans-serif; 
+}
+
+.textOntop {
+    font-size: 24px;
+    font-weight: bold; 
+    padding: 20px; 
+    border-radius: 10px; 
+    color: white; 
+    font-family: "Merriweather", serif;
+}
+
+.textOntopC{
+    font-size: 1.7rem;
+    font-weight: bold; 
+    color: black;
+    width: 50%;
+    font-family: "Merriweather", serif;
+}
+
+.textEmpleados{
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+
+.centrar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0 2rem 0;
+    gap: 1rem;
+}
+
+.contact{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    margin: 1rem 1.5rem;
+    color: #b1a897;
+    font-size: 2rem;
+}
+
+.btnCustom{
+    padding: 0.6rem;
+    background-color: black;
+    border: 1px solid white;
+    margin: 0.6rem;
+}
+
+.btn-custom:hover{
+    background-color: white;
+    border: 1px solid black;
+}
+
+button a{
+    text-decoration: none;
+    color: white !important;
+}
+
+button a:hover{
+    text-decoration: none !important;
+}

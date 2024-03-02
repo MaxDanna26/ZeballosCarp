@@ -1,0 +1,38 @@
+.menu-icon{
+    padding: 0.8rem;
+}
+
+.menu-icon:hover{
+    scale: 1.2;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.close-icon{
+    padding: 0.5rem;
+}
+
+.fas:hover,.fa-bars:hover{
+    scale: 1.2;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+ul,li,a{
+    padding: 0.2rem 0.5rem;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    inline-size: max-content;
+}
+
+li:hover{
+    scale: 1.2;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.LogoCarp{
+    border-radius: 4rem;
+}

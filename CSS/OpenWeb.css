@@ -1,0 +1,42 @@
+.ImageWoods{
+    width: 100%;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .button-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .button{
+    margin: 5px;
+    background-color: #282828;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+  .button:hover{
+    background-color: #ffffff;
+    cursor: pointer;
+    color: black;
+
+
+  }
+  
