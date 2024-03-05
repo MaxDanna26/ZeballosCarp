@@ -93,8 +93,9 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 2rem 0 2rem 0;
+    margin: 2rem 1rem 2rem 1rem;
     gap: 1rem;
+    text-align: center;
 }
 
 .contact{
@@ -125,4 +126,16 @@ button a{
 
 button a:hover{
     text-decoration: none !important;
+}
+
+.titleService{
+    color: #b1a897;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+.parrafoService{
+    font-family: "Merriweather", serif;
 }
