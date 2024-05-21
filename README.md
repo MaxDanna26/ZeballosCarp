@@ -8,12 +8,15 @@ para poder darle una alternativa mas innovadora al cliente para poder acceder a 
 ``bash
 
 Clonar el repositorio
+
 git clone https://github.com/MaxDanna26/zeballosCarp.git
 
 Navegar al directorio del proyecto
+
 cd ZeballosCarp
 
 Instalar dependencias
+
 npm install
 
 ## Uso
