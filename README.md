@@ -6,21 +6,22 @@ para poder darle una alternativa mas innovadora al cliente para poder acceder a 
 ## Instalación
 
 ``bash
-# Clonar el repositorio
+
+Clonar el repositorio
 git clone https://github.com/MaxDanna26/zeballosCarp.git
 
-# Navegar al directorio del proyecto
+Navegar al directorio del proyecto
 cd ZeballosCarp
 
-# Instalar dependencias
+Instalar dependencias
 npm install
 
 ## Uso
 
-# Comando para ejecutar el proyecto
+Comando para ejecutar el proyecto
 npm start
 
-# Ejemplo de uso
+Ejemplo de uso
 curl -X GET http://localhost:3000/zeballoscarp
 
 ## Contenido
