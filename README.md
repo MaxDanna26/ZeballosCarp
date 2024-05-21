@@ -1,7 +1,5 @@
 # Zeballos Carp
 
-## Descripción
-
 Yo he nacido en Rosario, Argetina, y alli es donde mi familia tiene una empresa bastante reconocida en la ciudad sobre muebles, por lo tanto, he decidido junto con ellos crear un sitio web 
 para poder darle una alternativa mas innovadora al cliente para poder acceder a fotos, informacion o contacto! 
 
